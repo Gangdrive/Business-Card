@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Ilya Mironov</string>
+    <string name="profession_name">Information Security Specialist</string>
+    <string name="phone_name">Number unknown!</string>
+    <string name="telegram_name">\@Infosec21</string>
+    <string name="mail_name">infosec21@yandex.ru</string>
+</resources>
